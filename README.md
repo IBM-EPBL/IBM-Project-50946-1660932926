@@ -26,3 +26,5 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 ![WhatsApp Image 2022-11-15 at 2 20 31 AM](https://user-images.githubusercontent.com/117815764/201897219-a2832b68-44ee-4bec-b98b-bb7dbd9e829d.jpeg)
 
 # PROJECT WORKFLOW:
+
+The user interacts with the application. Registers by giving the details as a donor. The database will have all the details and if a user posts a request then the concerned blood group donors will get notified about it.
