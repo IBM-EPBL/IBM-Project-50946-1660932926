@@ -1,5 +1,5 @@
 # IBM-Project-50946-1660932926
-# Plasma Donor Applicatio
+# Plasma Donor Application
 
 Team ID: PNT2022TMID46635
 
@@ -25,3 +25,4 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 
 ![WhatsApp Image 2022-11-15 at 2 20 31 AM](https://user-images.githubusercontent.com/117815764/201897219-a2832b68-44ee-4bec-b98b-bb7dbd9e829d.jpeg)
 
+# PROJECT WORKFLOW:
