@@ -17,5 +17,11 @@ K.S.K COLLEGE OF ENGINEERING TECHNOLOGY,DHARASURAM
 PYTHON,FLASK,DOCKER
 # SYSTEM REQUIRED:
 
+8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
+
+During the COVID 19 crisis, the requirement of plasma became a high priority and the donor count has become low. Saving the donor information and helping the needy by notifying the current donors list, would be a helping hand. In regard to the problem faced, an application is to be built which would take the donor details, store them and inform them upon a request.
+
+# TECHNICAL ARCHITECTURE:
+
 ![WhatsApp Image 2022-11-15 at 2 20 31 AM](https://user-images.githubusercontent.com/117815764/201897219-a2832b68-44ee-4bec-b98b-bb7dbd9e829d.jpeg)
 
