@@ -31,6 +31,6 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 
 The user interacts with the application. Registers by giving the details as a donor. The database will have all the details and if a user posts a request then the concerned blood group donors will get notified about it.
 
-VIDEO LINK:
+# VIDEO LINK:
 
 https://drive.google.com/drive/folders/1wo20PLEWUZ3hey9cPkyt2BL5vPLDezAe
