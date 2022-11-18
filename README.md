@@ -33,4 +33,4 @@ The user interacts with the application. Registers by giving the details as a do
 
 # VIDEO LINK:
 
-https://drive.google.com/drive/folders/1wo20PLEWUZ3hey9cPkyt2BL5vPLDezAe
+https://drive.google.com/file/d/1wsjFUJbqL2M-Qx87FSuWnMxWXsQ-LsOz/view?usp=drivesdk
